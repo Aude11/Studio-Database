@@ -9,7 +9,7 @@ In addition, various amounts of quires have been written in order to extract dat
 Final project for course 'introduction' to SQL with [Code First Girls] (https://codefirstgirls.org.uk)
 
 ## Technologies
-* SQL DataBase:
+* SQL DataBase: 
   * MySQL workbench --version 8.0.23
   * mysql --version 8.0.24
 
@@ -39,15 +39,13 @@ export PATH=$PATH:/usr/local/mysql/bin
 * Core_requirements.sql
 
 This file contains a list of queries in addition to stored function, stored procedure, views, trigger and event in order to meet project requirements and extract information from the database.
-* a query that uses a trigger
- * ff
-  
-  - an event and a query to demonstrate how it runs
-  - views that uses at least 4 base tables;  with queries that uses the views to produce a logically arranged result set for analysis.
-  - a query with 'group by' and 'having to demonstrate' how to extract data
-  - stored function that can be applied to a query
-  - stored procedure that can be applied to a query
-  - query with a subquery to extract data for analysis
+  * a query that uses a trigger
+  * an event and a query to demonstrate how it runs
+  * views that uses at least 4 base tables;  with queries that uses the views to produce a logically arranged result set for analysis.
+  * a query with 'group by' and 'having to demonstrate' how to extract data
+  * stored function that can be applied to a query
+  * stored procedure that can be applied to a query
+  * query with a subquery to extract data for analysis
 
 * Studio_databse_creation.sql
 
