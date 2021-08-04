@@ -39,7 +39,8 @@ export PATH=$PATH:/usr/local/mysql/bin
 * Core_requirements.sql
 
 This file contains a list of queries in addition to stored function, stored procedure, views, trigger and event in order to meet project requirements and extract information from the database.
-  - a query that uses a trigger
+  * a query that uses a trigger
+  
   - an event and a query to demonstrate how it runs
   - views that uses at least 4 base tables;  with queries that uses the views to produce a logically arranged result set for analysis.
   - a query with 'group by' and 'having to demonstrate' how to extract data
@@ -48,19 +49,19 @@ This file contains a list of queries in addition to stored function, stored proc
   - query with a subquery to extract data for analysis
 
 * Studio_databse_creation.sql
-* 
+
 Database design file that contains the code have created the database, table structure and data entrance.
 
 * Studio_db_backup.sql
-* 
+ 
 File to use if one wants to restore the database and use it.
 
 * ER_Diagram.png
-* 
+
 Screenshoot of the ER Diagram
 
 * ERDiagram.mwb
-* 
+
 ERDiagram saved file.
 
 ### Contact
