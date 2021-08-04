@@ -39,7 +39,8 @@ export PATH=$PATH:/usr/local/mysql/bin
 * Core_requirements.sql
 
 This file contains a list of queries in addition to stored function, stored procedure, views, trigger and event in order to meet project requirements and extract information from the database.
-  * a query that uses a trigger
+* a query that uses a trigger
+ * ff
   
   - an event and a query to demonstrate how it runs
   - views that uses at least 4 base tables;  with queries that uses the views to produce a logically arranged result set for analysis.
