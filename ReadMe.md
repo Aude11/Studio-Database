@@ -14,12 +14,12 @@ Final project for course 'introduction' to SQL with [Code First Girls] (https://
   * mysql --version 8.0.24
 
 ## Usage
-** Back up *
+** Back up **
 
 ```
 mysqldump -u [user] -p Studio > [filename].sql
 ```
-** Restore *
+** Restore **
 
 ```
 mysql -u [user] -p [database_name] < [filename].sql
