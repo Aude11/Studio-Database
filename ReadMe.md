@@ -6,7 +6,7 @@ Relational database which contains 11 tables, all having a set of Primary and Fo
 This project is about mimicking a film studio production, focusing on adapting movies from books. The database holds information about the different movie project, the team working on each project, the book where the project is adapted from, the budget, the genre, press review and award received.
 In addition, various amounts of quires have been written in order to extract data and analyse information from the database.
 
-Final project for course 'introduction' to SQL with [Code First Girls] (https://codefirstgirls.org.uk)
+Final project for course 'Introduction to Data & SQL Programming' with [Code First Girls] (https://codefirstgirls.org.uk)
 
 ## Technologies
 * SQL DataBase: 
